@@ -4,4 +4,4 @@ Adapted from <https://github.com/honojs/examples/tree/main/jsx-ssr>
 
 ## Live Demo
 
-<https://smallweb-hono-example.pomdtr.me>
+<https://hono-example.pomdtr.me>
