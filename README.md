@@ -4,7 +4,7 @@ Adapted from <https://github.com/honojs/examples/tree/main/jsx-ssr>
 
 ## Installation
 
-Make sure you have [smallweb](https://github.com/pomdtr/smallweb) installed then run.
+Make sure you have [smallweb](https://github.com/pomdtr/smallweb) installed then run:
 
 ```ts
 git clone https://github.com/pomdtr/smallweb-hono-example ~/www/hono-example
