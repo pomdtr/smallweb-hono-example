@@ -39,4 +39,4 @@ app.get("/post/:id{[0-9]+}", (c) => {
   return c.html(<Page post={post} />);
 });
 
-export default app.fetch;
+export default app;
